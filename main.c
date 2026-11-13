@@ -5,9 +5,9 @@
 int main() {
     // Inicializar la estructura con los valores estándar del Problema 3 Artemis (TLI)
     EstadoTLI nave;
-    nave.v_tli = 10900.0;         // Velocidad de inyección translunar predeterminada (10.9 km/s)[cite: 4]
-    nave.masa_nave = M_ORION;     // Masa predeterminada de la nave Orion (26.000 kg)[cite: 4]
-    nave.altitud_inicial = ALT_LEO; // Altitud inicial en órbita baja LEO (192.000 m)[cite: 3, 4]
+    nave.v_tli = 10900.0;         // Velocidad de inyección translunar predeterminada (10.9 km/s)
+    nave.masa_nave = M_ORION;     // Masa predeterminada de la nave Orion (26.000 kg)
+    nave.altitud_inicial = ALT_LEO; // Altitud inicial en órbita baja LEO (192.000 m)
 
     int opcion;
 

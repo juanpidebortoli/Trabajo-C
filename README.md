@@ -24,6 +24,8 @@ En el escenario propuesto, la etapa superior ICPS impulsa la nave desde una órb
 
 El simulador se organiza como una herramienta de consulta y cálculo mediante un menú de consola\. El usuario puede explorar los conceptos del escenario y comparar resultados al cambiar la velocidad y la masa de la nave\.
 
+**Enlace al video:** https://youtu.be/xqaGC98Qygc?si=aBie5JVgj18Ltwnq
+
 ### Parámetros iniciales
 
 |Magnitud                   |Valor        |Unidad  |
@@ -180,4 +182,4 @@ Se utilizó como apoyo para aclaraciones sobre el proyecto y la organización de
 
 ## 10\. Video de presentación
 
-**Enlace al video:** PEGAR AQUÍ EL ENLACE DEL VIDEO
+**Enlace al video:** https://youtu.be/xqaGC98Qygc?si=aBie5JVgj18Ltwnq
